@@ -1,0 +1,28 @@
+{
+  "name": "micro-videos-admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlissonDavisAlmeida/micro-videos-admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlissonDavisAlmeida/micro-videos-admin/issues"
+  },
+  "homepage": "https://github.com/AlissonDavisAlmeida/micro-videos-admin#readme",
+  "description": "",
+  "devDependencies": {
+    "@swc/cli": "^0.7.8",
+    "@swc/core": "^1.13.3",
+    "@swc/jest": "^0.2.39",
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.5",
+    "typescript": "^5.8.3"
+  }
+}
