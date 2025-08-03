@@ -24,7 +24,7 @@ export class Category {
         this.created_at = props.created_at || new Date();
     }
 
-    static create(props: CategoryConstructorProps): Category {
+    static create(props: CategoryCreateCommand): Category {
         return new Category(props);
     }
 
